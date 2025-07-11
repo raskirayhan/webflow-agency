@@ -1,0 +1,295 @@
+ 
+body { margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  line-height: 1.6;
+  color: #333;
+  background-color: #f8f9ff;
+}
+
+a {
+  text-decoration: none;
+}
+.btn {
+  background-color: #2d00f7;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-weight: 500;
+  display: inline-block;
+  transition: background 0.3s;
+}
+
+
+.btn:hover {
+  background-color: #1800aa;
+}
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 40px;
+  align-items: center;
+}
+.logo {
+  font-weight: bold;
+  font-size: 24px;
+  color: #2d00f7;
+}
+/* 2ed part of assaignment */
+
+.assign {
+  text-align: center;
+  padding: 60px 20px;
+  background-image: url('image/Hero-bg.png');
+  background-size: cover;
+  background-position: center;
+}
+
+
+.assign h1 {
+  font-size: 36px;
+  margin: 40px 0;
+   color: #252432;
+}
+
+
+.main-btn {
+  margin-top: 10px;
+}
+
+
+.Rate {
+  display: flex;
+  justify-content: space-around;
+  padding: 60px 20px;
+}
+
+
+.Rate-text {
+  max-width: 400px;
+}
+
+
+.Rate-image img {
+  width: 260px;
+  border-radius: 17px;
+}
+
+
+/* 3rd passage */
+
+
+/*  Action Section */
+.three{
+  background-color: #e6e9ff;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.three h2 {
+  margin-bottom: 30px;
+  font-size: 24px;
+  color: #111;
+}
+
+.three-numbers {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.three-numbers div h3 {
+  font-size: 32px;
+  color: #3d5afe;
+  margin: 0;
+}
+
+.three-numbers div p {
+  margin-top: 5px;
+  font-size: 14px;
+}
+/* 4th passage */
+/*  */
+.four {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.four h2 {
+  margin-bottom: 30px;
+  font-size: 24px;
+}
+
+.four-cards {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: #fff;
+  padding: 20px;
+  width: 280px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  text-align: left;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.stars {
+  color: #f5a623;
+  font-size: 18px;
+  text-align: center;
+}
+
+.card h3 {
+  margin: 10px 0 7px;
+}
+
+.card p {
+  font-size: 17px;
+  color: #555;
+}
+
+.reviewer {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.reviewer img {
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+
+/* 5th passage */
+
+/* Let’s Get In Touch Section */
+.focus-section {
+  text-align: center;
+  padding: 60px 20px;
+  margin: 30px;
+  border-radius: 10px;
+  background-color: #f9faff;
+}
+
+.focus-section h2 {
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.focus-section p {
+  font-size: 16px;
+  margin: 10px 0 20px;
+}
+
+.btn {
+  background-color: #3d5afe;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 14px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.focus-image {
+  display: block;
+  margin: 30px auto 0;
+  width: 80%;
+  max-width: 800px;
+  border-radius: 16px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Contact Section */
+.contact-section {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 60px 20px;
+  background-color: #ffffff;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.contact-left h2 {
+  font-size: 36px;
+  line-height: 1.2;
+}
+
+.contact-left span {
+  font-weight: 300;
+}
+
+.contact-left strong {
+  font-weight: 700;
+}
+
+.contact-right {
+  max-width: 400px;
+  width: 100%;
+}
+
+.contact-right form {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-right input,
+.contact-right textarea {
+  margin-bottom: 15px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.contact-right button {
+  align-self: flex-start;
+}
+/* Footer Section*/
+.footer {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #ffffff;
+  color: #666;
+}
+
+.logo {
+  color: #4f46e5; /* blue-violet color */
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.description {
+  max-width: 500px;
+  margin: 0 auto 30px;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.footer-nav a {
+  color: #888;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.footer-nav a:hover {
+  color: #4f46e5;}
+ 
