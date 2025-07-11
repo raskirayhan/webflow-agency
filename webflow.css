@@ -267,7 +267,7 @@ a {
 
 .logo {
   color: #4f46e5; /* blue-violet color */
-  font-size: 100px;
+  font-size: 42px;
   font-weight: bold;
   margin-bottom: 10px;
 }
@@ -287,11 +287,11 @@ a {
 }
 
 .footer-nav a {
-  color: #888;
+  color:#8987A1;
   text-decoration: none;
   font-size: 14px;
 }
 
 .footer-nav a:hover {
-  color: #4f46e5;}
+  color:yellow;}
  
