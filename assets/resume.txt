@@ -1,0 +1,15 @@
+Sheikh Raski Rayhan
+MERN Stack Web Developer | Software Engineer
+
+Skills:
+React, Next.js, Node.js, Express, MongoDB, Firebase, TypeScript, Tailwind CSS, Bootstrap, Git, GitHub, VS Code, Postman
+
+Experience:
+- Building scalable web applications and user-focused interfaces
+- Developing full-stack systems with modern JavaScript tools
+- Delivering polished products with strong performance and accessibility
+
+Contact:
+Email: contact@raskirayhan.dev
+GitHub: github.com/raskirayhan
+LinkedIn: linkedin.com/in/sheikh-raski-rayhan-36b588334
